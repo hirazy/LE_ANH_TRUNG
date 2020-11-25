@@ -17,7 +17,7 @@
 },
 "app_exists": {
 "id": "com.king.candycrushsaga",
-"is_exists": false,
+"is_exists": true,
 "is_show_more": true,
 "isLoading": false,
 "isShowAds": true
