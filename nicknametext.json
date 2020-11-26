@@ -24,31 +24,22 @@
     },
     "apps": [
         {
-            "id": "com.gamma.scan",
-            "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-            "des": "Functional QR scanner and barcode reader that requires little storage",
-            "name": "QR & Barcode Scanner",
-            "s1": "https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
-            "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-            "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+            "id": "com.ln.coffin.dance.meme.soundboard",
+            "icon": "https://play-lh.googleusercontent.com/tmiJC5LVtpwIWmn1WUXfDWc7cj0FbUVStnTWmguGSm5p1qB4LEcCXQMXWwsNOqbJ0-Ve=s180-rw",
+            "des": "Play and listen to the following on your device remix versions of the Coffin Dance",
+            "name": "Coffin Dance | Meme Prank Soundboard",
+            "s1": "https://play-lh.googleusercontent.com/SfEI_Eqo59oLcqCTOmR028VJn-qa9KmI_yIu8hCR-mkXRCfcafvUtYuc5daavUyn5cM=w720-h310-rw",
+            "s2": "https://play-lh.googleusercontent.com/8IyiiRVA5uqjOgWOj0ne9oYZTAorobtaUNuU5QPLma3FTAiN5GF0euQ0vWGAZvHFpA=w720-h310-rw",
+            "s3": "https://play-lh.googleusercontent.com/GNdL3NwHPLhAcblFUNR0CrG2o1ZYNP1S5r7PRagilfiQyh7opdRjs7-7jBpUc1dSpA=w720-h310-rw"
         },
         {
-            "id": "com.eco.fastcharger",
-            "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-            "des": "Functional QR scanner and barcode reader that requires little storage",
-            "name": "QR & Barcode Scanner",
-            "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-            "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-            "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
-        },
-        {
-            "id": "com.gamma.scan",
-            "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-            "des": "Functional QR scanner and barcode reader that requires little storage",
-            "name": "QR & Barcode Scanner",
-            "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-            "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-            "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+            "id": "com.ln.sound.sirenhead.sound",
+            "icon": "https://play-lh.googleusercontent.com/UFcfr_jw8pQeWDfgLtH5Q8Pgez9qpEY53ExCxTCdT8i67__VKo-wj0lygREFxtt9dyw=s180-rw",
+            "des": "With This Siren Head voice app you can have fun with your friends.",
+            "name": "Siren Head Sounds",
+            "s1": "https://play-lh.googleusercontent.com/wyhD9tQM69YaFBD0URT3s0mz8iP6iZGeSBQPCphhwfR2FHad_NHyF_vIDUmIphcJk1Cp=w720-h310-rw",
+            "s2": "https://play-lh.googleusercontent.com/wBTqJdJO5UVbP0hNBrua7iDfnCzPxUVhyHE2hV7HYShcdrjeEOmOUSVcfni77R4EkQ=w720-h310-rw",
+            "s3": "https://play-lh.googleusercontent.com/rHnniosCvoic1uFpWDiXdF7ENtqfEQHWuw9i4BtF57-5xwPomvtie0Nho4TGRtdrRYk=w720-h310-rw"
         }
     ]
 }
