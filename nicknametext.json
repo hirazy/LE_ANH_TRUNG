@@ -1,54 +1,54 @@
 {
-"ads": {
-"id_app": "id_app",
-"flury_id": "flury_id",
-"banner_setting": "ca-app-pub-/2672936624",
-"inter_setting": "ca-app-pub-/",
-"banner_main": "ca-app-pub-/9343593663",
-"inter_main": "ca-app-pub-/8999920608",
-"banner_setting_new": "",
-"inter_setting_new": "",
-"banner_main_new": "",
-"inter_main_new": "",
-"onlyAdmod": false,
-"onlyFB": true,
-"fb_banner": "693259844943336_693261064943214",
-"fb_inter": "693259844943336_693261184943202"
-},
-"app_exists": {
-"id": "com.king.candycrushsaga",
-"is_exists": true,
-"is_show_more": true,
-"isLoading": false,
-"isShowAds": true
-},
-"apps": [
-{
-"id": "com.gamma.scan",
-"icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-"des": "Functional QR scanner and barcode reader that requires little storage",
-"name": "QR & Barcode Scanner",
-"s1": "https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
-"s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-"s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
-},
-{
-"id": "com.eco.fastcharger",
-"icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-"des": "Functional QR scanner and barcode reader that requires little storage",
-"name": "QR & Barcode Scanner",
-"s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-"s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-"s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
-},
-{
-"id": "com.gamma.scan",
-"icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
-"des": "Functional QR scanner and barcode reader that requires little storage",
-"name": "QR & Barcode Scanner",
-"s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
-"s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
-"s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
-}
-]
+    "ads": {
+        "id_app": "id_app",
+        "flury_id": "flury_id",
+        "banner_setting": "ca-app-pub-/2672936624",
+        "inter_setting": "ca-app-pub-/",
+        "banner_main": "ca-app-pub-/9343593663",
+        "inter_main": "ca-app-pub-/8999920608",
+        "banner_setting_new": "",
+        "inter_setting_new": "",
+        "banner_main_new": "",
+        "inter_main_new": "",
+        "onlyAdmod": false,
+        "onlyFB": true,
+        "fb_banner": "693259844943336_693261064943214",
+        "fb_inter": "693259844943336_693261184943202"
+    },
+    "app_exists": {
+        "id": "com.king.candycrushsaga",
+        "is_exists": true,
+        "is_show_more": true,
+        "isLoading": false,
+        "isShowAds": true
+    },
+    "apps": [
+        {
+            "id": "com.gamma.scan",
+            "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+            "des": "Functional QR scanner and barcode reader that requires little storage",
+            "name": "QR & Barcode Scanner",
+            "s1": "https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
+            "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+            "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+        },
+        {
+            "id": "com.eco.fastcharger",
+            "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+            "des": "Functional QR scanner and barcode reader that requires little storage",
+            "name": "QR & Barcode Scanner",
+            "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+            "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+            "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+        },
+        {
+            "id": "com.gamma.scan",
+            "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+            "des": "Functional QR scanner and barcode reader that requires little storage",
+            "name": "QR & Barcode Scanner",
+            "s1": "https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+            "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+            "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+        }
+    ]
 }
