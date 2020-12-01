@@ -1,0 +1,45 @@
+{
+    "ads": {
+        "id_app": "id_app",
+        "flury_id": "flury_id",
+        "banner_setting": "ca-app-pub-/2672936624",
+        "inter_setting": "ca-app-pub-/",
+        "banner_main": "ca-app-pub-/9343593663",
+        "inter_main": "ca-app-pub-/8999920608",
+        "banner_setting_new": "",
+        "inter_setting_new": "",
+        "banner_main_new": "",
+        "inter_main_new": "",
+        "onlyAdmod": false,
+        "onlyFB": true,
+        "fb_banner": "693259844943336_693261064943214",
+        "fb_inter": "693259844943336_693261184943202"
+    },
+    "app_exists": {
+        "id": "com.king.candycrushsaga",
+        "is_exists": true,
+        "is_show_more": true,
+        "isLoading": false,
+        "isShowAds": true
+    },
+    "apps": [
+        {
+            "id": "com.ln.coffin.dance.meme.soundboard",
+            "icon": "https://play-lh.googleusercontent.com/tmiJC5LVtpwIWmn1WUXfDWc7cj0FbUVStnTWmguGSm5p1qB4LEcCXQMXWwsNOqbJ0-Ve=s180-rw",
+            "des": "Play and listen to the following on your device remix versions of the Coffin Dance",
+            "name": "Coffin Dance | Meme Prank Soundboard",
+            "s1": "https://play-lh.googleusercontent.com/SfEI_Eqo59oLcqCTOmR028VJn-qa9KmI_yIu8hCR-mkXRCfcafvUtYuc5daavUyn5cM=w720-h310-rw",
+            "s2": "https://play-lh.googleusercontent.com/8IyiiRVA5uqjOgWOj0ne9oYZTAorobtaUNuU5QPLma3FTAiN5GF0euQ0vWGAZvHFpA=w720-h310-rw",
+            "s3": "https://play-lh.googleusercontent.com/GNdL3NwHPLhAcblFUNR0CrG2o1ZYNP1S5r7PRagilfiQyh7opdRjs7-7jBpUc1dSpA=w720-h310-rw"
+        },
+        {
+            "id": "com.ln.sound.sirenhead.sound",
+            "icon": "https://play-lh.googleusercontent.com/UFcfr_jw8pQeWDfgLtH5Q8Pgez9qpEY53ExCxTCdT8i67__VKo-wj0lygREFxtt9dyw=s180-rw",
+            "des": "With This Siren Head voice app you can have fun with your friends.",
+            "name": "Siren Head Sounds",
+            "s1": "https://play-lh.googleusercontent.com/wyhD9tQM69YaFBD0URT3s0mz8iP6iZGeSBQPCphhwfR2FHad_NHyF_vIDUmIphcJk1Cp=w720-h310-rw",
+            "s2": "https://play-lh.googleusercontent.com/wBTqJdJO5UVbP0hNBrua7iDfnCzPxUVhyHE2hV7HYShcdrjeEOmOUSVcfni77R4EkQ=w720-h310-rw",
+            "s3": "https://play-lh.googleusercontent.com/rHnniosCvoic1uFpWDiXdF7ENtqfEQHWuw9i4BtF57-5xwPomvtie0Nho4TGRtdrRYk=w720-h310-rw"
+        }
+    ]
+}
