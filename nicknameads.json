@@ -2,16 +2,16 @@
     "ads": {
         "id_app": "id_app",
         "flury_id": "flury_id",
-        "banner_setting": "ca-app-pub-/2672936624",
-        "inter_setting": "ca-app-pub-/",
-        "banner_main": "ca-app-pub-/9343593663",
-        "inter_main": "ca-app-pub-/8999920608",
+        "banner_setting": "ca-app-pub-3399710561924220/9808031085",
+        "inter_setting": "ca-app-pub-3399710561924220/3699107676",
+        "banner_main": "ca-app-pub-3399710561924220/2386026005",
+        "inter_main": "ca-app-pub-3399710561924220/1072944337",
         "banner_setting_new": "",
         "inter_setting_new": "",
         "banner_main_new": "",
         "inter_main_new": "",
-        "onlyAdmod": false,
-        "onlyFB": true,
+        "onlyAdmod": true,
+        "onlyFB": false,
         "fb_banner": "693259844943336_693261064943214",
         "fb_inter": "693259844943336_693261184943202"
     },
@@ -20,7 +20,7 @@
         "is_exists": true,
         "is_show_more": true,
         "isLoading": false,
-        "isShowAds": false
+        "isShowAds": true
     },
     "apps": [
         {
