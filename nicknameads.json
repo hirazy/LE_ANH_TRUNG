@@ -2,10 +2,10 @@
     "ads": {
         "id_app": "5fd0f329d1c04c042b15137f",
         "flury_id": "flury_id",
-        "banner_setting": "ca-app-pub-3399710561924220/9808031085",
-        "inter_setting": "ca-app-pub-3399710561924220/3699107676",
-        "banner_main": "ca-app-pub-3399710561924220/2386026005",
-        "inter_main": "ca-app-pub-3399710561924220/1072944337",
+        "banner_setting": "",
+        "inter_setting": "",
+        "banner_main": "",
+        "inter_main": "",
         "banner_setting_new": "",
         "inter_setting_new": "",
         "banner_main_new": "",
@@ -22,24 +22,5 @@
         "isLoading": false,
         "isShowAds": true
     },
-    "apps": [
-        {
-            "id": "sakurasimulator.nangpro.school.guide",
-            "icon": "https://play-lh.googleusercontent.com/Rfjj0wd5RMiN_U0CabiNdBYZTMixuEXYg2opbqn7sUIHkm_JTk1Uk_ICebdS_WAgHlo=s180-rw",
-            "des": "This beautiful Tips For SAKURA App will help you to know everything about the most famous School Sakura Senpai Simulator",
-            "name": "Free Sakura School Simulator Guide",
-            "s1": "https://play-lh.googleusercontent.com/pPP71-yb0fNm3LP7bTodJsbqytWj4Ez38F3oM35LUggTHr9SmKzgRdM2cpFtiv6kxsI=w720-h310-rw",
-            "s2": "https://play-lh.googleusercontent.com/m4iCOP3qGHKwKVIltr7q-zvR-SBhTMuMLqzpS7Ia6ogWE2G8IqqfztJ4h0Fuy0FvKg=w720-h310-rw",
-            "s3": "https://play-lh.googleusercontent.com/iPFoau-nq6ZGdRUKP0TXjz5yrr6myaOwBCfRzdeSv1BtkG6-2jtrqmpoRlON2Hcc1g=w720-h310-rw"
-        },
-        {
-            "id": "com.ln.nangpro.sound.sirenhead.sound",
-            "icon": "https://play-lh.googleusercontent.com/z2cIyWIV3IqeX1SIGW2vUz2eCRwauwb5jQFWRwv7TmNH99zzCUis8yTksAn1MgNudA=s180-rw",
-            "des": "With This Siren Head voice app you can have fun with your friends.",
-            "name": "Siren Head Sounds 2021",
-            "s1": "https://play-lh.googleusercontent.com/tXWRetr7XxVwcvPYiu3Wz08RIUihdqeJfzqyd6rbuEJYJ9zgTFPah9mjB1oiT9Ypxrk=w720-h310-rw",
-            "s2": "https://play-lh.googleusercontent.com/ycEOcRhj7X3e1t-ZoNcq15aYUWpbqOQEQSXrFk_laRCxrNBT-slncG3QukxyY8jQiXg=w720-h310-rw",
-            "s3": "https://play-lh.googleusercontent.com/UdoL1_QrAJEsX-CAlInMnHcph0PLrwgE9FkO33YJH5UWR_A4KOGTA947G1yJVcr23A0=w720-h310-rw"
-        }
-    ]
+    "apps": []
 }
